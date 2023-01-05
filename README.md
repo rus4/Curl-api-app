@@ -17,5 +17,8 @@ https://flask.palletsprojects.com/en/2.2.x/
 Can dockerise later on docker guidance is here:
 https://www.devteam.space/blog/how-to-deploy-a-web-app-with-docker-containers/
 
+Azure app service maty be used more info here:
+https://azure.microsoft.com/en-us/products/app-service/#features
+
 
 
